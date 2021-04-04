@@ -17,6 +17,9 @@ Source: <a href="https://www.templateroller.com/template/615181/the-lua-language
 5. <a href="Cheat-Sheets/Julia-cheat-sheet.pdf">Julia Programming</a> 
 Source: <a href="https://juliadocs.github.io/Julia-Cheat-Sheet/">juliadocs.github.io</a>
 
-6. In Progress...
+6. <a href="Cheat-Sheets/R-cheat-sheet.pdf">R Programming</a> 
+Source: <a href="https://www.hb.ucsc.edu/wp-content/uploads/2017/09/advancedR.pdf">hb.ucsc.edu</a>
+
+7. in Progress...
 
 
