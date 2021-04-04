@@ -14,7 +14,7 @@ Source: <a href="https://sites.ualberta.ca/~ygu/courses/geoph624/codes/C.CheatSh
 4. <a href="Cheat-Sheets/Lua-Cheat-Sheet.pdf">Lua Programming</a> 
 Source: <a href="https://www.templateroller.com/template/615181/the-lua-language-v5-1-cheat-sheet.html">templateroller.com</a>
 
-5. <a href="Cheat-Sheets/Julia-cheat-sheet.pdf">Lua Programming</a> 
+5. <a href="Cheat-Sheets/Julia-cheat-sheet.pdf">Julia Programming</a> 
 Source: <a href="https://juliadocs.github.io/Julia-Cheat-Sheet/">juliadocs.github.io</a>
 
 6. In Progress...
