@@ -23,7 +23,7 @@ Source: <a href="https://www.hb.ucsc.edu/wp-content/uploads/2017/09/advancedR.pd
 7. <a href="Cheat-Sheets/Golang-Cheat-Sheet.pdf">GoLang Programming</a> 
 Source: <a href="https://simplecheatsheet.com/tag/golang-cheat-sheet/">simplescheatsheet.com</a>
 
-8. <a href="Cheat-Sheets/c#-Cheat-Sheet.pdf">C# Programming</a> 
+8. <a href="Cheat-Sheets/c%23-Cheat-Sheet.pdf">C# Programming</a> 
 Source: <a href="https://hackr.io/blog/c-sharp-cheat-sheet">hackr.io</a>
 
 9. in Progress...
