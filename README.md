@@ -20,8 +20,12 @@ Source: <a href="https://juliadocs.github.io/Julia-Cheat-Sheet/">juliadocs.githu
 6. <a href="Cheat-Sheets/R-cheat-sheet.pdf">R Programming</a> 
 Source: <a href="https://www.hb.ucsc.edu/wp-content/uploads/2017/09/advancedR.pdf">hb.ucsc.edu</a>
 
-6. <a href="Cheat-Sheets/Golang-Cheat-Sheet.pdf">GoLang Programming</a> 
+7. <a href="Cheat-Sheets/Golang-Cheat-Sheet.pdf">GoLang Programming</a> 
 Source: <a href="https://simplecheatsheet.com/tag/golang-cheat-sheet/">simplescheatsheet.com</a>
 
-7. in Progress...
+8. <a href="Cheat-Sheets/c#-Cheat-Sheet.pdf">C# Programming</a> 
+Source: <a href="https://hackr.io/blog/c-sharp-cheat-sheet">hackr.io</a>
+
+9. in Progress...
+
 
