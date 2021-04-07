@@ -26,6 +26,9 @@ Source: <a href="https://simplecheatsheet.com/tag/golang-cheat-sheet/">simplesch
 8. <a href="Cheat-Sheets/c%23-Cheat-Sheet.pdf">C# Programming</a> 
 Source: <a href="https://hackr.io/blog/c-sharp-cheat-sheet">hackr.io</a>
 
-9. in Progress...
+9. <a href="Cheat-Sheets/Javascript-Cheat-Sheet.pdf">Javascript</a> 
+Source: <a href="https://websitesetup.org/Javascript-cheat-sheet/">websitesetup.org</a>
+
+10. in Progress...
 
 
