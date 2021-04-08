@@ -32,7 +32,10 @@ Source: <a href="https://websitesetup.org/Javascript-cheat-sheet/">websitesetup.
 10. <a href="Cheat-Sheets/jquery-cheat-sheet.pdf">jQuery</a> 
 Source: <a href="https://websitesetup.org/jquery-cheat-sheet/">websitesetup.org</a>
 
-11. in Progress...
+11. <a href="Cheat-Sheets/PHP-Cheat-Sheet.pdf">php</a> 
+Source: <a href="https://websitesetup.org/php-cheat-sheet/">websitesetup.org</a>
+
+12. in Progress...
 
 
 
