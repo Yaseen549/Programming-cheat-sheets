@@ -38,8 +38,8 @@ Source: <a href="https://websitesetup.org/php-cheat-sheet/">websitesetup.org</a>
 12. <a href="Cheat-Sheets/MySQL-Cheat-Sheet.pdf">php</a> 
 Source: <a href="https://websitesetup.org/mysql-cheat-sheet/">websitesetup.org</a>
 
+13. <a href="Cheat-Sheets/Bootstrap-Cheat-Sheet.pdf">Bootstrap</a> 
+Source: <a href="https://websitesetup.org/bootstrap-cheat-sheet/">websitesetup.org</a>
+
 ... in Progress...
-
-MySQL-Cheat-Sheet.pdf
-
 
