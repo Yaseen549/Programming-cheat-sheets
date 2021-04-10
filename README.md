@@ -35,7 +35,7 @@ Source: <a href="https://websitesetup.org/jquery-cheat-sheet/">websitesetup.org<
 11. <a href="Cheat-Sheets/PHP-Cheat-Sheet.pdf">php</a> 
 Source: <a href="https://websitesetup.org/php-cheat-sheet/">websitesetup.org</a>
 
-12. <a href="Cheat-Sheets/MySQL-Cheat-Sheet.pdf">php</a> 
+12. <a href="Cheat-Sheets/MySQL-Cheat-Sheet.pdf">MySQL</a> 
 Source: <a href="https://websitesetup.org/mysql-cheat-sheet/">websitesetup.org</a>
 
 13. <a href="Cheat-Sheets/Bootstrap-Cheat-Sheet.pdf">Bootstrap</a> 
