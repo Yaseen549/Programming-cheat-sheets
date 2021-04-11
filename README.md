@@ -41,5 +41,8 @@ Source: <a href="https://websitesetup.org/mysql-cheat-sheet/">websitesetup.org</
 13. <a href="Cheat-Sheets/Bootstrap-Cheat-Sheet.pdf">Bootstrap</a> 
 Source: <a href="https://websitesetup.org/bootstrap-cheat-sheet/">websitesetup.org</a>
 
+14. <a href="Cheat-Sheets/SQL-Cheat-Sheet.pdf">SQL</a> 
+Source: <a href="https://websitesetup.org/SQL-cheat-sheet/">websitesetup.org</a>
+
 ... in Progress...
 
