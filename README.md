@@ -47,5 +47,9 @@ Source: <a href="https://websitesetup.org/SQL-cheat-sheet/">websitesetup.org</a>
 15. <a href="Cheat-Sheets/CSS-Cheat-Sheet.pdf">CSS3</a> 
 Source: <a href="https://websitesetup.org/css3-cheat-sheet/">websitesetup.org</a>
 
-### 16. <a href="Cheat-Sheets/git-cheat-sheet.pdf">Git Sheat</a> 
+== 16. <a href="Cheat-Sheets/git-cheat-sheet.pdf">Git Sheat</a> 
+
+== 17. <a href="Cheat-Sheets/Linux-commands-cheat-sheet-by-PhoenixNAP.pdf">Linux Cheat Sheat</a> 
+
+
 
